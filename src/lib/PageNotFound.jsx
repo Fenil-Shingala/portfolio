@@ -1,5 +1,5 @@
 ﻿import { useLocation } from "react-router-dom";
-import { base44 as client } from "@/api/client.js";
+import { client } from "@/api/client.js";
 import { useQuery } from "@tanstack/react-query";
 
 export default function PageNotFound({}) {
@@ -89,4 +89,3 @@ export default function PageNotFound({}) {
     </div>
   );
 }
-
