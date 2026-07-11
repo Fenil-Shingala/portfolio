@@ -50,7 +50,7 @@ export default function ContactSection() {
     <section id="contact" className="py-24 sm:py-32 px-6">
       <div className="max-w-6xl mx-auto">
         <SectionReveal>
-          <p className="font-mono text-sm text-primary mb-3">05 â€” Contact</p>
+          <p className="font-mono text-sm text-primary mb-3">05 - Contact</p>
           <h2 className="text-3xl sm:text-4xl font-bold tracking-tight mb-4">
             Get In Touch
           </h2>

@@ -17,7 +17,7 @@ export default function ExperienceSection() {
     <section id="experience" className="py-24 sm:py-32 px-6 bg-secondary/30">
       <div className="max-w-6xl mx-auto">
         <SectionReveal>
-          <p className="font-mono text-sm text-primary mb-3">04 â€” Experience</p>
+          <p className="font-mono text-sm text-primary mb-3">04 - Experience</p>
           <h2 className="text-3xl sm:text-4xl font-bold tracking-tight mb-12">
             Work Experience
           </h2>
@@ -85,4 +85,3 @@ export default function ExperienceSection() {
     </section>
   );
 }
-
