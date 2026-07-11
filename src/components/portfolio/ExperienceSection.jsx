@@ -55,7 +55,7 @@ export default function ExperienceSection() {
                   <div className="flex flex-wrap gap-3 text-sm text-muted-foreground">
                     <span className="flex items-center gap-1.5">
                       <Calendar className="w-3.5 h-3.5" />
-                      April 2023 â€“ Present
+                      April 2023 to Present
                     </span>
                   </div>
                 </div>
